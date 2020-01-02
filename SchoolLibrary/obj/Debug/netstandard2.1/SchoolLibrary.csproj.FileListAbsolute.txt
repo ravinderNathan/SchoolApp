@@ -1,0 +1,7 @@
+C:\Users\552640\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.1\SchoolLibrary.deps.json
+C:\Users\552640\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.1\SchoolLibrary.dll
+C:\Users\552640\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.1\SchoolLibrary.pdb
+C:\Users\552640\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\552640\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\552640\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.dll
+C:\Users\552640\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.1\SchoolLibrary.pdb
